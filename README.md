@@ -1,0 +1,2 @@
+# Router-Switch-Management-with-TFTP-Backup-IOS-Upgrade
+This project simulates a centrally managed small enterprise network to demonstrate reliable configuration backups and system upgrades. By deploying a Trivial File Transfer Protocol (TFTP) server, the project provides a centralized repository to store router and switch configurations (running-config and startup-config) and manage IOS image upgrades.
